@@ -11,6 +11,7 @@ Vy = 4.53
 Vx = 4.53
 Vx2 = 4.53
 x = 0
+# Mynningshöjden
 y = 0.275
 h = 0.0001
 k = 0.5 * A * c * Densitet
